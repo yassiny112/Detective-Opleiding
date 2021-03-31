@@ -1,0 +1,27 @@
+.nav {
+    float: right;
+    width: 100px;
+    display : flex;
+    justify-content: center;
+}
+
+.jumbotron {
+    text-shadow: #444 0 1px 1px;
+		color: rgba(0, 0, 0, 0);
+		position: relative;
+		height: 40vh;
+}
+
+.img1 {
+    float: 2px;
+}
+
+.resize {
+    width: 1300px;
+    height: 500px;
+}
+
+.container-fluid-nav div {
+    display: flex;
+    justify-content: space-around;
+}
